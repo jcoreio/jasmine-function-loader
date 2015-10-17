@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mindfront/jasmine-externalizer-loader"
+    "url": "https://github.com/mindfront/jasmine-function-loader"
   },
   "keywords": [
     "jasmine",
@@ -18,9 +18,9 @@
   "author": "Andy Edwards <jedwards@fastmail.com> (https://github.com/jedwards1211)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mindfront/jasmine-externalizer-loader/issues"
+    "url": "https://github.com/mindfront/jasmine-function-loader/issues"
   },
-  "homepage": "https://github.com/mindfront/jasmine-externalizer-loader",
+  "homepage": "https://github.com/mindfront/jasmine-function-loader",
   "dependencies": {
     "loader-utils": "^0.2.11"
   }
