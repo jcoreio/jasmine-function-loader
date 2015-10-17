@@ -1,0 +1,27 @@
+{
+  "name": "jasmine-function-loader",
+  "version": "1.0.0",
+  "description": "wraps modules in function(jasmine) {...}",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mindfront/jasmine-externalizer-loader"
+  },
+  "keywords": [
+    "jasmine",
+    "webpack",
+    "loader"
+  ],
+  "author": "Andy Edwards <jedwards@fastmail.com> (https://github.com/jedwards1211)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mindfront/jasmine-externalizer-loader/issues"
+  },
+  "homepage": "https://github.com/mindfront/jasmine-externalizer-loader",
+  "dependencies": {
+    "loader-utils": "^0.2.11"
+  }
+}
